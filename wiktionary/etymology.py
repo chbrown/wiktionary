@@ -10,6 +10,10 @@ import languages
 langs = re.compile('\{\{etyl.+?(?:lang=)?(\w+)\}\}', re.I)
 
 
+def consolidate_iso(iso):
+    return languages.name2iso[languages.iso2name[iso]]
+
+
 def parse_page(page):
     '''
     Returns a pair (word, source_languages)
@@ -44,20 +48,17 @@ with open(wiktionary_xml) as wiktionary_fp:
 
         # if not word.startswith('Wiktionary:'):
         if len(page_isos) > 0:
-            page_languages = [languages.iso2name.get(iso, 'Missing: %s' % iso) for iso in sorted(page_isos)]
-            line = '%s\t%s\n' % (word, ', '.join(page_languages))
+            # languages.iso2name will not contain iso mostly in weird, typo-ish cases
+            page_isos = [consolidate_iso(iso) for iso in page_isos if iso in languages.iso2name]
+            # page_languages = sorted(list(set(page_languages)))
+            line = '%s\t%s\n' % (word, ','.join(page_isos))
             sys.stdout.write(line.encode('utf8'))
+            sys.stdout.flush()
             counter += 1
 
             if counter % 100 == 0:
-                sys.stdout.flush()
-
                 sys.stderr.write('\r%7d' % counter)
                 sys.stderr.flush()
 
             if opts.take and counter > opts.take:
                 break
-
-
-sys.stdout.flush()
-sys.stderr.flush()

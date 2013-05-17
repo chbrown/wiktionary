@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 iso2name = {
+    u"Latin": u"Latin",
     u"Latn": u"Latin",
     u"aa": u"Afar",
     u"aaa": u"Ghotuo",
@@ -9934,7 +9935,7 @@ name2iso = {
     u"Guanche": u"gnc",
     u"Guanhua": u"cmn",
     u"Guanyinqiao": u"jiq",
-    u"Guaraní": u"grn",
+    u"Guaraní": u"gn",
     u"Guarayu": u"gyr",
     u"Guarijío": u"var",
     u"Guatemalan Sign Language": u"gsm",
@@ -11410,7 +11411,7 @@ name2iso = {
     u"Lashi": u"lsi",
     u"Lasi": u"lss",
     u"Latgalian": u"ltg",
-    u"Latin": u"Latn",
+    u"Latin": u"la",
     u"Latu": u"ltu",
     u"Latundê": u"ltn",
     u"Latvian": u"lv",

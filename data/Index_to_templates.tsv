@@ -2121,7 +2121,7 @@ gmv	Gamo
 gmw-jdt	Jersey Dutch		
 gmx	Magoma		
 gmy	Mycenaean Greek		
-gn	Guaraní		
+gn	Guaraní	grn	
 gna	Kaansa		
 gnb	Gangte		
 gnc	Guanche		
@@ -2179,7 +2179,6 @@ grh	Gbiri-Niragu
 gri	Ghari		
 grj	Southern Grebo		
 grm	Kota Marudu Talantang		
-grn	Guaraní		
 gro	Groma		
 grq	Gorovu		
 grr	Taznatit		
@@ -3382,7 +3381,7 @@ kzv	Komyandaret
 kzw	Karirí-Xocó		
 kzx	Kamarian		
 kzz	Kalabra		
-la	Latin		
+la	Latin	Latn,Latin	
 laa	Lapuyan Subanun		
 lab	Linear A		
 lac	Lacandon		
@@ -3398,7 +3397,6 @@ lam	Lamba
 lan	Laru		
 laq	Qabiao		
 lar	Larteh		
-Latn	Latin		
 lau	Laba		
 law	Lauje		
 lax	Tiwa		
