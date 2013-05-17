@@ -1,0 +1,1395 @@
+{{shortcut|WT:Index}}
+{{tocright}}
+This list tracks the status of indexes for the various languages appearing in Wiktionary. It should show only those languages for which indexing has begun. It includes information about whether that index has only a simple list or a multipage index, and whether a multipage index follows a standardized format.
+
+In a sense the standardized format is very arbitrary, and has been pursued in the absence of alternatives being proposed. At the top level for a language the format is <i style="color:black;background:#eee">Index:Language</i>. When there is enough material to warrant splitting the index, this is being done by letter, using subpages like <i style="color:black;background:#eee">Index:Language/a</i> with the referenced letter in lower case. There should not be made any distinction between uppercase and lowercase letters. Appropriate modifications need to be made for scripts that are not strictly alphabetic (''e.g.'', Chinese).
+
+Some language lists have been further sub-divided, but no standard has yet been suggested.
+
+[[:Category:Language indexes]] serves the same purpose as this list but is automated. For a more general list of languages and their indexes see [[Wiktionary:List of languages]] or [[:Category:All languages]].
+
+For Swadesh vocabulary word lists of  various languages, see [[Appendix:Swadesh lists]].
+
+The following language indexes are periodically updated by [[Special:Contributions/Conrad.Bot|Conrad.Bot]]:
+{{index key}}
+{{top2}}
+* [[Index:Albanian|Albanian]]
+* [[Index:Ancient Greek|Ancient Greek]]
+* [[Index:Armenian|Armenian]]
+* [[Index:Catalan|Catalan]]
+* [[Index:Esperanto|Esperanto]]
+* [[Index:French|French]]
+* [[Index:Galician|Galician]]
+* [[Index:Hebrew|Hebrew]]
+* [[Index:Hiligaynon|Hiligaynon]]
+* [[Index:Hungarian|Hungarian]]
+* [[Index:Icelandic|Icelandic]]
+* [[Index:Ido|Ido]]
+* [[Index:Irish|Irish]]
+* [[Index:Italian|Italian]]
+{{mid2}}
+* [[Index:Kashubian|Kashubian]]
+* [[Index:Latin|Latin]]
+* [[Index:Lithuanian|Lithuanian]]
+* [[Index:Lower Sorbian|Lower Sorbian]]
+* [[Index:Mapudungun|Mapudungun]]
+* [[Index:Old Armenian|Old Armenian]]
+* [[Index:Old French|Old French]]
+* [[Index:Polish|Polish]]
+* [[Index:Portuguese|Portuguese]]
+* [[Index:Romanian|Romanian]]
+* [[Index:Russian|Russian]]
+* [[Index:Spanish|Spanish]]
+* [[Index:Upper Sorbian|Upper Sorbian]]
+{{bottom}}
+
+== List of languages ==
+
+=== Table columns ===
+; Language
+: Language name.
+; Language code
+: [[w:ISO 639]] two- or three-letter language code. Wiktionary-specific adaptations are marked with an asterisk (*).
+; Script code(s)
+: [[w:ISO 15924]] four-letter script code. Wiktionary-specific adaptations are marked with an asterisk (*).
+; Notes
+: 
+; Links
+: Relevant Wiktionary pages.
+
+{| style="text-align:left; border-collapse: collapse; border-bottom: 3px double #aaa;"
+|- style="vertical-align: bottom;"
+! Language
+! Language code
+! Script code(s)
+! Notes
+! Links
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[English]] ===
+| en
+| {{en/script}}
+| 
+| 
+* [[:Category:English language]]
+* [[:Index:English]] - very large
+* [[:Wiktionary:Requested entries (English)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Abkhaz]] ===
+| ab
+| {{ab/script}}
+| 
+| 
+* [[:Category:Abkhaz language]]
+* [[:Index:Abkhaz]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Adyghe]] ===
+| ady
+| {{ady/script}}
+| 
+| 
+* [[:Category:Adyghe language]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Afrikaans]] ===
+| af
+| {{af/script}}
+| 
+| 
+* [[:Category:Afrikaans language]]
+* [[:Index:Afrikaans]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Albanian]] ===
+| sq
+| {{sq/script}}
+| 
+| 
+* [[:Category:Albanian language]]
+* [[:Index:Albanian]] - single page
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[American Sign Language]] ===
+| ase
+| {{ase/script}}
+| 
+| 
+* [[:Category:American Sign Language]]
+* [[:Index:American Sign Language]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Arabic]] ===
+| ar
+| {{ar/script}}
+| 
+| 
+* [[:Category:Arabic language]]
+* [[:Index:Arabic]] - revised
+* [[:Wiktionary:About Arabic]] - style guide for Arabic entries
+* [[:Wiktionary:Requested entries (Arabic)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Aragonese]] ===
+| an
+| {{an/script}}
+| 
+| 
+* [[:Category:Aragonese language]]
+* [[Index:Aragonese]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Armenian]] ===
+| hy
+| {{hy/script}}
+| 
+| 
+* [[:Category:Armenian language]]
+* [[:Index:Armenian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Aymara]] ===
+| ay
+| {{ay/script}}
+| 
+| 
+* [[:Category:Aymara language]]
+* [[Index:Aymara]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Balinese]] ===
+| ban
+| Bali, Latn
+| 
+| 
+* [[:Category:Balinese language]]
+* [[Index:Balinese]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Basque]] ===
+| eu
+| {{eu/script}}
+| 
+| 
+* [[:Category:Basque language]]
+* [[Index:Basque]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Betawi]] ===
+| bew
+| {{bew/script}}
+| 
+| 
+* [[:Category:Betawi language]]
+* [[Index:Betawi]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Bosnian]] ===
+| bs
+| 
+| See [[#Serbo-Croatian]]
+| 
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Breton]] ===
+| br
+| {{br/script}}
+| 
+| 
+* [[:Category:Breton language]]
+* [[Index:Breton]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Bulgarian]] ===
+| bg
+| {{bg/script}}
+| 
+| 
+* [[:Category:Bulgarian language]]
+* [[Index:Bulgarian]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Cantonese]] ===
+| yue
+| {{yue/script}}
+| 
+| 
+* [[:Category:Cantonese language]]
+* [[Index:Chinese]] - modified revision
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Catalan]] ===
+| ca
+| {{ca/script}}
+| 
+| 
+* [[:Category:Catalan language]]
+* [[Index:Catalan]] -very incomplete - not updated since 2006
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Chickasaw]] ===
+| clc
+| {{clc/script}}
+| 
+| 
+* [[:Category:Chickasaw language]]
+* [[Index:Chickasaw]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Chinese]] ===
+| zh
+| {{cmn/script}}
+| 
+| 
+* [[:Category:Chinese language]]
+* [[:Category:CJKV radicals]]
+* [[:Index:Chinese]] - modified revision
+* [[:Wiktionary:About Chinese]] - style guide for Chinese entries
+* [[:Wiktionary:Requested entries (Chinese)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Coptic]] ===
+| cop
+| {{cop/script}}
+| 
+| 
+* [[:Category:Coptic language]]
+* [[Index:Coptic]] (not yet built)
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Cornish]] ===
+| kw
+| {{kw/script}}
+| 
+| 
+* [[:Category:Cornish language]]
+* [[Index:Cornish]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Corsican]] ===
+| co
+| {{co/script}}
+| 
+| 
+* [[:Category:Corsican language]]
+* [[Index:Corsican]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Crimean Tatar]] ===
+| crh
+| Cyrl, Latn
+| 
+| 
+* [[:Category:Crimean Tatar language]]
+* [[Index:Crimean Tatar]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Croatian]] ===
+| hr
+| 
+| See [[#Serbo-Croatian]]
+| 
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Czech]] ===
+| cs
+| {{cs/script}}
+| 
+| 
+* [[:Category:Czech language]]
+* [[:Index:Czech]]
+* [[:Wiktionary:About Czech]] - style guide for Czech entries
+* [[:Wiktionary:Requested entries (Czech)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Danish]] ===
+| da
+| {{da/script}}
+| 
+| 
+* [[:Category:Danish language]]
+* [[:Index:Danish]] - revised
+* [[:Wiktionary:Requested entries (Danish)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Dutch]] ===
+| nl
+| {{nl/script}}
+| 
+| 
+* [[:Category:Dutch language]]
+* [[:Index:Dutch]] - multipage
+* [[:Wiktionary:About Dutch]] - style guide for Dutch entries
+* [[:Wiktionary:Requested entries (Dutch)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Esperanto]] ===
+| eo
+| {{eo/script}}
+| 
+| 
+* [[:Category:Esperanto language]]
+* [[:Index:Esperanto]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Estonian]] ===
+| et
+| {{et/script}}
+| 
+| 
+* [[:Category:Estonian language]]
+* [[Index:Estonian]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Ewe]] ===
+| ee
+| {{ee/script}}
+| 
+| 
+* [[Category:Ewe language]]
+* [[Index:Ewe]] - multipage, in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Fiji Hindi]] ===
+| hif
+| {{hif/script}}
+| 
+| 
+* [[:Category:Fiji Hindi language]]
+* [[Index:Fiji Hindi]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Filipino]] ===
+| fil
+| 
+| See [[#Tagalog]]
+| 
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Finnish]] ===
+| fi
+| {{fi/script}}
+| 
+| 
+* [[:Category:Finnish language]]
+* [[:Index:Finnish]] - revised
+* [[:Wiktionary:About Finnish]] - style guide for Finnish entries
+* [[:Wiktionary:Requested entries (Finnish)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[French]] ===
+| fr
+| {{fr/script}}
+| 
+| 
+* [[:Category:French language]]
+* [[:Index:French]] - short list
+* [[:Wiktionary:About French]] - style guide for French entries
+* [[:Wiktionary:Requested entries (French)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Galician]] ===
+| gl
+| {{gl/script}}
+| 
+| 
+* [[:Category:Galician language]]
+* [[Index:Galician]]
+* [[Wiktionary:Requested entries (Galician)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Georgian]] ===
+| ka
+| {{ka/script}}
+| 
+| 
+* [[:Category:Georgian language]]
+* [[Index:Georgian]] being set up
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[German]] ===
+| de
+| {{de/script}}
+| 
+| 
+* [[:Category:German language]]
+* [[:Index:German]] - revised
+* [[:Wiktionary:About German]] - style guide for German entries
+* [[:Wiktionary:Requested entries (German)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Greek]], Modern ===
+| el
+| {{el/script}}
+| 
+| 
+* [[:Category:Greek language]]
+* [[:Index:Greek]] - multipage index, updated
+* [[:Wiktionary:About Greek]] - style guide for Greek entries
+* [[:Wiktionary:Requested entries (Greek)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Ancient Greek]] ===
+| grc
+| {{grc/script}}*
+| 
+| 
+* [[:Category:Ancient Greek language]]
+* [[:Index:Ancient Greek]]
+* [[:Wiktionary:About Ancient Greek]] - style guide for Ancient Greek entries
+* [[:Wiktionary:Requested entries (Ancient Greek)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Greenlandic]] ===
+| kl
+| {{kl/script}}
+| 
+| 
+* [[:Category:Greenlandic language]]
+* [[:Index:Greenlandic]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Haitian Creole]] ===
+| ht
+| {{ht/script}}
+| 
+| 
+* [[:Category:Haitian Creole language]]
+* [[Index:Haitian Creole]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Hawaiian]] ===
+| haw
+| {{haw/script}}
+| 
+| 
+* [[:Category:Hawaiian language]]
+* [[Index:Hawaiian]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Hebrew]] ===
+| he
+| {{he/script}}
+| 
+| 
+* [[:Category:Hebrew language]]
+* [[:Index:Hebrew]] - a fairly small collection of words
+* [[:Wiktionary:About Hebrew]] - style guide for Hebrew entries
+* [[:Wiktionary:Requested entries (Hebrew)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Hindi]] ===
+| hi
+| {{hi/script}}
+| 
+| 
+* [[:Category:Hindi language]]
+* [[Index:Hindi]] - partial
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Hungarian]] ===
+| hu
+| {{hu/script}}
+| 
+| 
+* [[:Category:Hungarian language]]
+* [[:Index:Hungarian]] - in progress
+* [[:Wiktionary:About Hungarian]] - style guide for Hungarian entries
+* [[:Wiktionary:Requested entries (Hungarian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Icelandic]] ===
+| is
+| {{is/script}}
+| 
+| 
+* [[:Category:Icelandic language]]
+* [[Index:Icelandic]] - started
+* [[:Wiktionary:Requested entries (Icelandic)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Indonesian]] ===
+| id
+| {{id/script}}
+| 
+| 
+* [[:Category:Indonesian language]]
+* [[Index:Indonesian]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Inuktitut]] ===
+| iu
+| Cans, Latn
+| 
+| 
+* [[:Category:Inuktitut language]]]
+* [[Index:Inuktitut]] - everyday words
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Interlingua]] ===
+| ia
+| {{ia/script}}
+| 
+| 
+* [[:Category:Interlingua language]]
+* [[Index:Interlingua]] - partly revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Irish]] ===
+| ga
+| {{ga/script}}
+| 
+| 
+* [[:Category:Irish language]]
+* [[Index:Irish]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Italian]] ===
+| it
+| {{it/script}}
+| 
+| 
+* [[:Category:Italian language]]
+* [[:Index:Italian]] - built automagically from the latest dump
+* [[:Wiktionary:About Italian]] - style guide for Italian entries
+* [[:Wiktionary:Requested entries (Italian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Japanese]] ===
+| ja
+| Jpan, Latn<!--no point in listing Hira, Kana, and Hani because they are assumed in Jpan-->
+| 
+| 
+* [[:Category:Japanese language]]
+* [[:Index:Japanese]] - modified revised
+* [[:Wiktionary:About Japanese]] - style guide for Japanese entries
+* [[:Wiktionary:Requested entries (Japanese)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Kannada]] ===
+| kn
+| {{kn/script}}
+| 
+| 
+* [[:Category:Kannada language]]
+* [[Index:Kannada]] - just started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Kashubian]] ===
+| csb
+| {{csb/script}}
+| 
+| 
+* [[:Category:Kashubian language]]
+* [[Index:Kashubian]] - one word
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Khmer]] ===
+| km
+| {{km/script}}
+| 
+| 
+* [[:Category:Khmer language]]
+* [[:Index:Khmer]] - recently created
+* [[:Wiktionary:Requested entries (Khmer)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Kinyarwanda]] ===
+| rw
+| {{rw/script}}
+| 
+| 
+* [[:Category:Kinyarwanda language]]
+* [[Index:Kinyarwanda]] -ing begun
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Korean]] ===
+| ko
+| Kore
+| 
+| 
+* [[:Category:Korean language]]
+* [[:Index:Korean]] - started; character index
+* [[:Wiktionary:About Korean]] - style guide for Korean entries
+* [[:Wiktionary:Requested entries (Korean)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Kurdish]]/[[Kurdî]] ===
+| ku
+| Arab, Latn
+| 
+| 
+* [[:Category:Kurdish language]]
+* [[Index:Kurdish]] - a few words
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Latgalian]] ===
+| ltg
+| {{ltg/script}}
+| 
+| 
+* [[:Category:Latgalian language]]
+* [[:Index:Latgalian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Latin]] ===
+| la
+| {{la/script}}
+| 
+| 
+* [[:Category:Latin language]]
+* [[:Index:Latin]] - generated automagically
+* [[:Wiktionary:About Latin]] - style guide for Latin entries
+* [[:Wiktionary:Requested entries (Latin)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Lingala]] ===
+| ln
+| {{ln/script}}
+| 
+| 
+* [[:Category:Lingala language]]
+* [[:Index:Lingala]] - to be done
+* [[:Wiktionary:About Lingala]] - style guide for Lingala entries
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Livonian]] ===
+| liv
+| {{liv/script}}
+| 
+| 
+* [[:Category:Livonian language]]
+* [[Index:Livonian]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Lojban]] ===
+| jbo
+| {{jbo/script}}
+| 
+| 
+* [[:Category:Lojban language]]
+* [[Index:Lojban]] - short list
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Lower Sorbian]] ===
+| dsb
+| {{dsb/script}}
+| 
+| 
+* [[:Category:Lower Sorbian language]]
+* [[Index:Lower Sorbian]] - short list
+* [[Wiktionary:About Lower Sorbian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Low German]] ===
+| nds-nl ''or'' nds-de
+| {{nds-de/script}}
+| 
+| 
+* [[:Category:Low German language]]
+* [[Index:Low German]] - short list
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Macedonian]] ===
+| mk
+| {{mk/script}}
+| 
+| 
+* [[:Category:Macedonian language]]
+* [[:Index:Macedonian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Malay]] ===
+| ms
+| Arab, Latn
+| 
+| 
+* [[:Category:Malay language]]
+* [[:Index:Malay]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Malayalam]] ===
+| ml
+| {{ml/script}}
+| 
+| 
+* [[:Category:Malayalam language]]
+* [[Index:Malayalam]] - eleven words
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Mandarin]] ===
+| cmn
+| Hani
+|  
+| 
+* [[:Category:Mandarin language]]
+* [[Index:Chinese]] - modified revision
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Manx]] ===
+| gv
+| {{gv/script}}
+| 
+| 
+* [[:Category:Manx language]]
+* [[Index:Manx]] - short list, setup for expansion
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Maori]] ===
+| mi
+| {{mi/script}}
+| 
+| 
+* [[:Category:Maori language]]
+* [[Index:Maori]] - Short list of words but no sub-index.
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Mauritian Creole]] ===
+| mfe
+| {{mfe/script}}
+| 
+| 
+* [[:Category:Mauritian Creole language]]
+* [[Wiktionary:About Mauritian Creole]] - style guide for entries
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Min Nan]] ===
+| nan
+| Hani
+| 
+| 
+* [[:Category:Min Nan language]]
+* [[Index:Chinese]] - modified revision
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Mongolian]] ===
+| mn
+| Cyrl, Mong
+| 
+| 
+* [[:Category:Mongolian language]]
+* [[Index:Mongolian]] - general setup
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Norwegian]] ===
+| no
+| {{no/script}}
+| 
+| 
+* [[:Category:Norwegian language]]
+* [[Index:Norwegian]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Old Armenian]] ===
+| xcl
+| {{xcl/script}}
+| 
+| 
+* [[:Category:Old Armenian language]]
+* [[:Index:Old Armenian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Old English]] ===
+| ang
+| Latn
+| 
+| 
+* [[:Category:Old English language]]
+* [[:Index:Old English]] - revised
+* [[:Wiktionary:About Old English]] - style guide for Old English entries
+* [[:Wiktionary:Requested entries (Old English)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Old French]] ===
+| fro
+| {{fro/script}}
+| 
+| 
+* [[:Category:Old French language]]
+* [[Index:Old French]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Old Norse]] ===
+| non
+| {{non/script}}
+| 
+| 
+* [[:Category:Old Norse language]]
+* [[Index:Old Norse]] - few words
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Old Prussian]] ===
+| prg
+| {{prg/script}}
+| 
+| 
+* [[:Category:Old Prussian language]]
+* [[Index:Old Prussian]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Oriya]] ===
+| or
+| {{or/script}}
+| 
+| 
+* [[:Category:Oriya language]]
+* [[:Index:Oriya]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Pangasinan]] ===
+| pag
+| {{pag/script}}
+| 
+| 
+* [[:Category:Pangasinan language]]
+* [[Index:Pangasinan]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Papiamentu]] ===
+| pap
+| {{pap/script}}
+| 
+| 
+* [[:Category:Papiamentu language]]
+* [[Index:Papiamentu]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Pashto]] ===
+| ps
+| {{ps/script}}
+| 
+| 
+* [[:Category:Pashto language]]
+* [[:Index:Pashto]] - revised
+* [[:Wiktionary:Requested entries (Pashto)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Persian]] ===
+| fa
+| {{fa/script}}
+| 
+| 
+* [[:Category:Persian language]]
+* [[:Index:Persian]] - revised
+* [[:Wiktionary:About Persian]] - style guide for Persian entries
+* [[:Wiktionary:Requested entries (Persian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Pitjantjatjara]] ===
+| pjt
+| {{pjt/script}}
+| 
+| 
+* [[:Category:Pitjantjatjara language]]
+* [[Index:Pitjantjatjara]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Polish]] ===
+| pl
+| {{pl/script}}
+| 
+| 
+* [[:Category:Polish language]]
+* [[Index:Polish]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Portuguese]] ===
+| pt
+| {{pt/script}}
+| 
+| 
+* [[:Category:Portuguese language]]
+* [[Index:Portuguese]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Proto-Slavic]] ===
+| sla-pro*
+| {{sla-pro/script}}
+| 
+| 
+* [[:Category:Proto-Slavic language]]
+* [[Index:Proto-Slavic]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Rapa Nui]] ===
+| rap
+| {{rap/script}}
+| 
+| 
+* [[:Category:Rapa Nui language]]
+* [[Wiktionary:About Rapa Nui]] - stub
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Romanian]] ===
+| ro
+| {{ro/script}}
+| 
+| 
+* [[:Category:Romanian language]]
+* [[:Index:Romanian]] - revised
+* [[:Wiktionary:About Romanian]] - style guide for Romanian entries
+* [[:Wiktionary:Requested entries (Romanian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Russian]] ===
+| ru
+| {{ru/script}}
+| 
+| 
+* [[:Category:Russian language]]
+* [[:Index:Russian]] - revised (А, Б, B, Г, Е, Ё, Й complete)
+* [[:Wiktionary:About Russian]] - style guide for Russian entries
+* [[:Wiktionary:Requested entries (Russian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+
+=== [[Sanskrit]] ===
+| sa
+| Beng, Brah, Deva, Khar, Knda, Latn, Mlym, Shrd, Sinh<!--actually there are more, but our templates have an upper limit at 10-->
+| 
+| 
+* [[:Category:Sanskrit language]]
+* [[Index:Sanskrit]] - one word in Roman script
+* [[Wiktionary:About Sanskrit]] - style guide for Sanskrit entries
+* [[Wiktionary:Requested entries (Sanskrit)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Scots]] ===
+| sco
+| {{sco/script}}
+| 
+| 
+* [[Category:Scots language]]
+* [[Index:Scots]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Scottish Gaelic]] ===
+| gd
+| {{gd/script}}
+| 
+| 
+* [[:Category:Scottish Gaelic language]]
+* [[Index:Scottish Gaelic]] - short list
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Serbian]] ===
+| sr
+| 
+| See [[#Serbo-Croatian]]
+| 
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Serbo-Croatian]] ===
+| sh
+| Cyrl, Latn
+| 
+| 
+* [[:Category:Serbo-Croatian language]]
+* [[:Wiktionary:About Serbo-Croatian]] - style guide for Serbo-Croatian entries
+* [[:Wiktionary:Requested entries (Serbo-Croatian)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Slovak]] ===
+| sk
+| {{sk/script}}
+| 
+| 
+* [[:Category:Slovak language]]
+* [[Index:Slovak]] - ever-growing list of Slovak words and their English equivalents
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Slovene]] ===
+| sl
+| {{sl/script}}
+| 
+| 
+* [[:Category:Slovene language]]
+* [[Index:Slovene]] - short list
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Spanish]] ===
+| es
+| {{es/script}}
+| 
+| 
+* [[:Category:Spanish language]]
+* [[:Index:Spanish]] - revised
+* [[:Wiktionary:About Spanish]] - style guide for Spanish entries
+* [[:Wiktionary:Requested entries (Spanish)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Sinhalese]] ===
+| si
+| {{si/script}}
+| 
+| 
+* [[:Category:Sinhalese language]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Swahili]] ===
+| sw
+| {{sw/script}}
+| 
+| 
+* [[:Category:Swahili language]]
+* [[:Index:Swahili]] - to be done
+* [[:Wiktionary:About Swahili]] - style guide for Swahili entries
+* [[:Wiktionary:Requested entries (Swahili)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Swedish]] ===
+| sv
+| {{sv/script}}
+| 
+| 
+* [[:Category:Swedish language]]
+* [[:Index:Swedish]] - revised
+* [[:Wiktionary:About Swedish]] - style guide for Swedish entries
+* [[:Wiktionary:Requested entries (Swedish)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Tagalog]] ===
+| tl
+| {{tl/script}}
+| 
+| 
+* [[:Category:Tagalog language]]
+* [[Index:Tagalog]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Tajik]] ===
+| tg
+| {{tg/script}}
+| 
+| 
+* [[:Category:Tajik language]]
+* [[Index:Tajik]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Tamil]] ===
+| ta
+| {{ta/script}}
+| 
+| 
+* [[:Category:Tamil language]]
+* [[Index:Tamil]] - short list
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Tarantino]] ===
+| roa-tar
+| {{roa-tar/script}}
+| 
+| 
+* [[:Category:Tarantino language]]
+* [[Index:Tarantino]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Telugu]] ===
+| te
+| {{te/script}}
+| 
+| 
+* [[:Category:Telugu language]]
+* [[Index:Telugu]] - single word in Latin letters
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Thai]] ===
+| th
+| {{th/script}}
+| 
+| 
+* [[:Category:Thai language]]
+* [[Index:Thai]] - one word
+* [[:Wiktionary:About Thai]] - style guide for Thai entries
+* [[:Wiktionary:Requested entries (Thai)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Tok Pisin]] ===
+| tpi
+| {{tpi/script}}
+| 
+| 
+* [[:Category:Tok Pisin language]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Turkish]] ===
+| tr
+| {{tr/script}}
+| 
+| 
+* [[:Category:Turkish language]]
+* [[Index:Turkish]] - general setup
+* [[Wiktionary:Requested entries (Turkish)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Ukrainian]] ===
+| uk
+| {{uk/script}}
+| 
+| 
+* [[:Category:Ukrainian language]]
+* [[Wiktionary:About Ukrainian]]
+* [[Index:Ukrainian]] - revised
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Upper Sorbian]] ===
+| hsb
+| {{hsb/script}}
+| 
+| 
+* [[:Category:Upper Sorbian language]]
+* [[Index:Upper Sorbian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Urdu]] ===
+| ur
+| {{ur/script}}
+| 
+| 
+* [[:Category:Urdu language]]
+* [[Index:Urdu]] - general setup
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Uzbek]] ===
+| uz
+| Arab, Cyrl, Latn
+| 
+| 
+* [[:Category:Uzbek language]]
+* [[Index:Uzbek]] - general setup
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Venetian]] ===
+| vec
+| {{vec/script}}
+| 
+| 
+* [[:Category:Venetian language]]
+* [[Index:Venetian]] - built automagically from the latest dump
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Vietnamese]] ===
+| vi
+| Hani, Latn
+| 
+| 
+* [[:Category:Vietnamese language]]
+* [[Index:Vietnamese]] - general set up, a handful of words listed
+* [[:Wiktionary:Requested entries (Vietnamese)]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Vilamovian]] ===
+| wym
+| {{wym/script}}
+| 
+| 
+* [[:Category:Vilamovian language]]
+* [[Index:Vilamovian]]
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Volapük]] ===
+| vo
+| {{vo/script}}
+| 
+| 
+* [[:Category:Volapük language]]
+* [[Index:Volapük]] - large set up
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Võro]] ===
+| vro
+| {{vro/script}}
+| 
+| 
+* [[:Category:Võro language]]
+* [[Index:Võro]] - started
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Welsh]] ===
+| cy
+| {{cy/script}}
+| 
+| 
+* [[:Category:Welsh language]]
+* [[Index:Welsh]] - single
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Xhosa]] ===
+| xh
+| {{xh/script}}
+| 
+| 
+* [[:Category:Xhosa language]]
+* [[Index:Xhosa]] - in progress
+
+|- style="border-top: 1px solid #aaa;"
+|
+=== [[Yiddish]] ===
+| yi
+| {{yi/script}}
+| 
+| 
+* [[:Category:Yiddish language]]
+* [[Wiktionary:About Yiddish]]
+* [[WT:FR:yi|Index of 600 most common Yiddish words]]
+* [[Index:Yiddish]] - deprecated
+|}
+
+== Appendix-only constructed languages ==
+The following languages are not permitted in the main namespace of Wiktionary, but have indices. Some are complete, due to a limited list of canonical terms, and others lack most vocabulary.
+
+* [[w:Bolak language|Bolak]]: [[Appendix:Bolak]]
+* {{w|Communicationssprache}}: [[Appendix:Communicationssprache]]
+* [[Eloi]]: [[Appendix:Eloi]]
+* {{w|Goa'uld}}: [[Appendix:Goa'uld]]
+* [[Klingon]]: [[Appendix:Klingon]]
+* {{w|Lapine}}: [[Appendix:Lapine]]
+* [[Lingua Franca Nova]]: [[Appendix:Lingua Franca Nova]]
+* [[Láadan]]: [[Appendix:Láadan]]
+* {{w|Mandalorian}}: [[Appendix:Mandalorian]]
+* [[w:Na'vi language|Na'vi]]: [[Appendix:Na'vi]]
+* [[w:Neo language|Neo]]: [[Appendix:Neo]]
+* {{w|Noxilo}}: [[Appendix:Noxilo]]
+* [[Quenya]]: [[Appendix:Quenya]]
+* [[Sindarin]]: [[Appendix:Sindarin]]
+* [[Toki Pona]]: [[Appendix:Toki Pona]]
+* {{w|Unas}}: [[Appendix:Unas]]
+
+
+[[Category:Language indexes|*]]
+[[Category:Wiktionary:Multilingual issues|Index of language indexes]]
+
+[[csb:Wikisłowôrz:Lësta jãzëków]]
+[[nl:Wiktionary:Lijst van lijsten van woorden in een taal]]
+[[ja:Wiktionary:言語の索引の一覧]]
+[[fr:Wiktionnaire:Index_des_index_des_langues]]
+[[lb:Wiktionary:Sproochen Index]]
+[[pl:Kategoria:Indeks słów wg języków]]
+[[ru:Индекс:Все языки]]
+[[sv:Wiktionary:Språkindex]]
+[[vi:Wiktionary:Ngôn ngữ]]
+[[si:Wiktionary:භාෂා ලැයිස්තුව]]
